@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/DeimosHall/decrypt-it/releases/download/v0.2.0/decrypt-it-0.2.0.tar.xz",
-                    "sha256": "9b4ce197eee0775f8cf3b2c9d5cfac5d7586c68a00acfb966916b35ecc28a7d8"
+                    "url": "https://github.com/DeimosHall/decrypt-it/releases/download/v0.2.2/decrypt-it-0.2.2.tar.xz",
+                    "sha256": "3733ffd4e68f00439c0d18f1edf2ec498aa132edec2780b8e2e19607daa37387"
                 }
             ]
         }
