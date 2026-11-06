@@ -1,7 +1,7 @@
 {
     "app-id": "dev.deimoshall.DecryptIt",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "50",
+    "runtime-version": "51",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/DeimosHall/decrypt-it/releases/download/v0.2.0/decrypt-it-0.2.0.tar.xz",
-                    "sha256": "9b4ce197eee0775f8cf3b2c9d5cfac5d7586c68a00acfb966916b35ecc28a7d8"
+                    "url": "https://github.com/DeimosHall/decrypt-it/releases/download/v0.2.1/decrypt-it-0.2.1.tar.xz",
+                    "sha256": "b86f9ede1fbd1f0d712db13481f65c58f18252d90c7f2f517f0537ec8ae09c26"
                 }
             ]
         }
